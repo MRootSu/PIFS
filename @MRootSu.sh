@@ -1,7 +1,7 @@
 #!/bin/sh
 
 (
-# Copyright (C) MIT License 2023 Nicholas Bissell (TheFreeman193)
+# Copyright (C) License 2024 Telegram : @MRootSu / King Of The Rooting (Mahmoud)
 echo "\n===== PIFS Random Profile/Fingerprint Picker ====="
 
 if [ ! -d "/data/adb" ]; then
@@ -12,7 +12,7 @@ fi
 if [ ! -d "./JSON" ]; then
     if [ ! -f "./PIFS.zip" ]; then
         echo "Downloading profile/fingerprint repo from GitHub..."
-        dUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
+        dUrl="https://raw.githubusercontent.com/mahmoud32xn/magisk-files/master/PIFS-main.zip"
         dTarget="PIFS.zip"
         if [ $(command -v curl) ]; then
             curl -o "$dTarget" "$dUrl"
@@ -124,7 +124,7 @@ cp "${RandFP}" "${Target}"
 echo "Killing GMS unstable process..."
 killall com.google.android.gms.unstable
 
-echo "\n===== Done. Test your Play Integrity now! ====="
+echo "\n===== Telegram: @MRootSu : King Of The Rooting Done.! ====="
 
 )&  # Wrap for safety if piped from curl
 exit 0

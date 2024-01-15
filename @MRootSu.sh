@@ -523,4 +523,4 @@ while true; do
 
 done
 
-echo "${NL}Finished!"
+echo "${NL}ThankYou! Use Script By @MRootSu"

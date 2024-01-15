@@ -521,6 +521,8 @@ while true; do
         break
     fi
 
+echo chmod 755 ./pickaprint.sh
+./pickaprint.sh
 done
 
 echo "${NL}Finished!"

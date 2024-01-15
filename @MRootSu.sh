@@ -12,7 +12,7 @@ fi
 if [ ! -d "./JSON" ]; then
     if [ ! -f "./PIFS.zip" ]; then
         echo "Downloading profile/fingerprint repo from GitHub..."
-        dUrl="https://github.com/MRootSu/PIFS/blob/King-Of-The-Root/PIFS-main.zip"
+        dUrl="https://github.com/MRootSu/PIFS/blob/main/PIFS-main.zip"
         dTarget="PIFS.zip"
         if [ $(command -v curl) ]; then
             curl -o "$dTarget" "$dUrl"

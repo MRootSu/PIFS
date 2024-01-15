@@ -18,8 +18,8 @@ JsonDir="./JSON"
 ListFile="./pifs_file_list"
 
 echo "$NL$NL==== PIFS Random Profile/Fingerprint Picker ===="
-echo " For ROOT Connect Me : https://t.me/MRootSu"
-echo "============= v4 - collection v1.3 =============$NL"
+echo " FOR ROOT Connect Telegram: @MRootSu"
+echo "============= King Of The Root =============$NL"
 
 if [ "$(echo "$*" | grep -e "-[a-z]*[?h]" -e "--help")" ]; then
     echo "Usage: ./pickaprint.sh [-x] [-i] [-c] [-a] [-s] [-r[r]] [-h|?]$NL$NL"

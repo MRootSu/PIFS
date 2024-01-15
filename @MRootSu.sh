@@ -480,7 +480,7 @@ while true; do
     if [ "$INTERACTIVE" -eq 1 ]; then
         INPUT=""
         while true; do
-            echo -n "${NL}Did the profile pass both BASIC and DEVICE integrity? (y/n/c): "
+            echo -n "${NL}@MRootSu Try Again FIX Device integrity ? (Y / N): "
             read -r INPUT
             case "$INPUT" in
                 y)

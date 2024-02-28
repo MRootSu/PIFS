@@ -19,7 +19,9 @@
 - ⚡ Google Pixel Phones
 - ⚡ OPPO MediaTek
 
-- وبعض الأجهزه حسب نوع الهاتف 
+
+- وبعض الأجهزه حسب نوع الهاتف
+- 
 - ⚡ للتواصل ⚡
 
 - https://t.me/MRootSu

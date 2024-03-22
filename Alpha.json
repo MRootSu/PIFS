@@ -2,11 +2,11 @@
   "magisk": {
     "version": "4d5510be-alpha",
     "versionCode": "27001",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@3180e66585494131b76b498531c2d3a56e56e69b/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@3180e66585494131b76b498531c2d3a56e56e69b/notes.md"
+    "link": "",
+    "note": ""
   },
   "stub": {
     "versionCode": "39",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@3180e66585494131b76b498531c2d3a56e56e69b/stub-release.apk"
+    "link": ""
   }
 }

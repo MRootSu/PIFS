@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "26.1-delta",
+    "versionCode": "26100",
+    "link": "",
+    "note": ""
+  },
+  "stub": {
+    "versionCode": "39",
+    "link": ""
+  }
+}

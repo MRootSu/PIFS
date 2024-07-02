@@ -23,7 +23,9 @@
 
 
 - وبعض الأجهزه حسب نوع الهاتف
+-
 - 
 - ⚡ للتواصل ⚡
+-
 
-- [@MRootSu](https://t.me/MRootSu)
+- [@MRootSu](https://t.me/MRootSu) اضغط هنا للتواصل ♥

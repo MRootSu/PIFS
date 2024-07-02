@@ -26,6 +26,5 @@
 -
 - 
 - ⚡ للتواصل ⚡
--
 
-- [@MRootSu](https://t.me/MRootSu) اضغط هنا للتواصل ♥
+- ⚡ [@MRootSu](https://t.me/MRootSu) اضغط هنا

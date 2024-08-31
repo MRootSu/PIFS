@@ -1,6 +1,6 @@
 {
     "version": "v1.3.2.9",
-    "versionCode": 100,
+    "versionCode": 60000,
     "zipUrl": "https://github.com/MRootSu/PIFS/raw/main/IntegrityShield.zip",
     "changelog": "https://raw.githubusercontent.com/MRootSu/PIFS/main/changelog.md"
 }

@@ -10,4 +10,4 @@
 - ⚡ [@MRootSu](https://t.me/MRootSu) اضعط هنا للتواصل
 
  ⚡ القناة الخاصة بنا  ⚡ 
-- ⚡ [@MRootOnline](https://t.me/MRootSu) أضغط هنا للانضمام
+- ⚡ [@MRootOnline](https://t.me/@MRootOnline) أضغط هنا للانضمام

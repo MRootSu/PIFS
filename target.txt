@@ -1,0 +1,11 @@
+com.google.android.gms
+io.github.vvb2060.keyattestation
+io.github.vvb2060.mahoshojo
+icu.nullptr.nativetest
+com.whatsapp
+com.whatsapp.w4b
+com.pubg.newstate
+com.rekoo.pubgm
+com.tencent.ig
+com.pubg.krmobile
+com.vng.pubgmobile

@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "0495468d-alpha",
-    "versionCode": "27006",
+    "version": "50af14f2-alpha",
+    "versionCode": "28103",
     "link": "https://github.com/MahmoudRooting",
     "note": "https://github.com/@MRootSu"
   },
   "stub": {
-    "versionCode": "27006",
+    "versionCode": "28103",
     "link": "https://github.com/HuskyDG/magisk-files/raw/ma"
   }
 }

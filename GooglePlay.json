@@ -1,6 +1,6 @@
 {
     "version": "Google Play ",
-    "versionCode": 100,
+    "versionCode": 1002000,
     "zipUrl": "https://github.com/MRootSu/PIFS/raw/refs/heads/main/IntegrityShield.zip",
     "changelog": "https://raw.githubusercontent.com/MRootSu/PIFS/main/changelog.md"
 }
